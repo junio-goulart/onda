@@ -148,7 +148,7 @@ window.requestAnimFrame = (function () {
 
 loop();
 
-
+//Aqui entra a outra onda
 
 var br = document.getElementById("branco"),
    ctx = br.getContext("2d"),
